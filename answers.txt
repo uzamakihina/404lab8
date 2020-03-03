@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q1. I see a brown bunny, when you click and dragon it, the bunny moves on multiple browsers
+
+Q2. Typscript is not a scripting language, it is statically compiled, and it can point
+out complication errors of the of the code during compilation time.
+ while Javascript is a scripting language and does not need to be compiled to run. It 
+detects errors during runtime instead.
+
+Q3.  A web application bundler is useful because it helps manage groups of tools 
+that solve similar problems. It speeds up the setup needed to implement all the libaries 
+and moduals for the web project to function.
+
+ParcelJs has features such as
+- Automatic trasnforms: code is AUtomatically transformed 
+- No config code splitting: Splits your output bundles so only what is needed is loaded initially
+- Good error logging: when errors happen the code that causes the error is highlighted.
+- Fast bundle times: multiplecore compilation and file cache makes bundling very Fast
+- Module replacement: automatically updates modules in the browser when you make changes in development
+
+
+Q 4.
+
+The different values readyState can be in is 
+0 this state means the websocket is connecting
+1 this state means the websocket is open 
+2 this state means the websocket is closing 
+3 this state means the websocket is closed 
+
+
+
+
+
+
+
+
+
+
+
+
+
